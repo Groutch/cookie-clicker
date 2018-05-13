@@ -18,6 +18,7 @@ $(document).ready(function () {
     imgcookie.attr("src","cookie.png");
     imgcookie.width(350);
     imgcookie.height(350);
+    imgcookie.position()
     //les phrases
     var phrases = [
         "Pas fatigué de cliquer?",
